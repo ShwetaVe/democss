@@ -1,0 +1,10 @@
+h2 {
+    color: blue;
+}
+body, table, td, p {
+	color: #5e5e5e; 
+	font-family:'Calibri', Arial, sans-serif; 
+	font-size: 14px;
+	line-height:17px;
+	background-color:#dcdcdc;
+}
